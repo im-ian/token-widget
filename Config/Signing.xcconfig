@@ -1,0 +1,7 @@
+TOKEN_WIDGET_DEVELOPMENT_TEAM =
+TOKEN_WIDGET_APP_BUNDLE_ID = com.example.TokenWidget
+TOKEN_WIDGET_WIDGET_BUNDLE_ID = com.example.TokenWidget.widget
+TOKEN_WIDGET_APP_GROUP_ID = group.com.example.token-widget
+
+#include? "LocalSigning.xcconfig"
+

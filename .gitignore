@@ -1,0 +1,14 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+*.xcscmblueprint
+
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Local signing overrides. Keep personal Team IDs, bundle IDs, and App Groups
+# out of commits by putting them in local-only config files.
+*.local.xcconfig
+LocalSigning.xcconfig
+Local*.entitlements
